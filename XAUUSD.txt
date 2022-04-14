@@ -1,0 +1,10 @@
+python download_tick_from_dukascopy.py XAUUSD  2013-01-01 2013-12-12
+python download_tick_from_dukascopy.py XAUUSD  2014-01-01 2014-12-12
+python download_tick_from_dukascopy.py XAUUSD  2015-01-01 2015-12-12
+python download_tick_from_dukascopy.py XAUUSD  2016-01-01 2016-12-12
+python download_tick_from_dukascopy.py XAUUSD  2017-01-01 2017-12-12
+python download_tick_from_dukascopy.py XAUUSD  2018-01-01 2018-12-12
+python download_tick_from_dukascopy.py XAUUSD  2019-01-01 2019-12-12
+python download_tick_from_dukascopy.py XAUUSD  2020-01-01 2020-12-12
+python download_tick_from_dukascopy.py XAUUSD  2021-01-01 2021-12-12
+

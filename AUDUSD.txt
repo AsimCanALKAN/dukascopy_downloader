@@ -1,0 +1,20 @@
+python download_tick_from_dukascopy.py AUDUSD  2003-05-05 2003-12-12
+python download_tick_from_dukascopy.py AUDUSD  2004-01-01 2004-12-12
+python download_tick_from_dukascopy.py AUDUSD  2005-01-01 2005-12-12
+python download_tick_from_dukascopy.py AUDUSD  2006-01-01 2006-12-12
+python download_tick_from_dukascopy.py AUDUSD  2007-01-01 2007-12-12
+python download_tick_from_dukascopy.py AUDUSD  2008-01-01 2008-12-12
+python download_tick_from_dukascopy.py AUDUSD  2009-01-01 2009-12-12
+python download_tick_from_dukascopy.py AUDUSD  2010-01-01 2010-12-12
+python download_tick_from_dukascopy.py AUDUSD  2011-01-01 2011-12-12
+python download_tick_from_dukascopy.py AUDUSD  2012-01-01 2012-12-12
+python download_tick_from_dukascopy.py AUDUSD  2013-01-01 2013-12-12
+python download_tick_from_dukascopy.py AUDUSD  2014-01-01 2014-12-12
+python download_tick_from_dukascopy.py AUDUSD  2015-01-01 2015-12-12
+python download_tick_from_dukascopy.py AUDUSD  2016-01-01 2016-12-12
+python download_tick_from_dukascopy.py AUDUSD  2017-01-01 2017-12-12
+python download_tick_from_dukascopy.py AUDUSD  2018-01-01 2018-12-12
+python download_tick_from_dukascopy.py AUDUSD  2019-01-01 2019-12-12
+python download_tick_from_dukascopy.py AUDUSD  2020-01-01 2020-12-12
+python download_tick_from_dukascopy.py AUDUSD  2021-01-01 2021-12-12
+
